@@ -2,9 +2,8 @@
 
 - **Họ và tên:** Phạm Thanh Phong
 - **Mã sinh viên:** N24DTCN120
-- **Môn học:** IT209 - Phát triển ứng dụng Web / Cloud Infrastructure
-- **Session:** 07 - Truyền tải dữ liệu an toàn & Bảo mật Tường lửa Multi-port
-- **Đường dẫn nộp bài:** `homework/session_07/ex2/`
+- **Môn học:** IT209 
+- **Session:** 07 
 
 ---
 
